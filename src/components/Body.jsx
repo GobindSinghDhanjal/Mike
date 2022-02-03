@@ -8,7 +8,7 @@ function Body() {
         <div class="row">
           <div class="col-lg-6 col-md-12 img-col">
 
-            <p class="product-location mobile"> dsMan &nbsp; <i class="fas fa-caret-right"></i> &nbsp; Shoes &nbsp; <i class="fas fa-caret-right"></i> &nbsp; <span style={{color:"lightgrey"}}>Gray Running Sneakers</span>  </p>
+            <p class="product-location mobile"> Man &nbsp; <i class="fas fa-caret-right"></i> &nbsp; Shoes &nbsp; <i class="fas fa-caret-right"></i> &nbsp; <span style={{color:"lightgrey"}}>Gray Running Sneakers</span>  </p>
 
             <h1 class="product-name mobile">Gray Running Sneakers</h1>
 
@@ -30,7 +30,7 @@ function Body() {
 
           <div class="col-lg-6 col-md-12 product-details">
             <p class="product-location desktop"> Man &nbsp; <i class="fas fa-caret-right"></i> &nbsp; Shoes &nbsp; <i class="fas fa-caret-right"></i> &nbsp; <span style={{color:"lightgrey"}}>Gray Running Sneakers</span>  </p>
-            <h1 class="product-name desktop">Gray Running Sneakers</h1>
+            <h1 class="product-name desktop">Grasdy Running Sneakers</h1>
             <p class="product-rating"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fad fa-star-half"></i>&nbsp; <a href=" "> 18 Votes </a></p>
             <div class="row">
               <div class="col-lg-4 col-6">
