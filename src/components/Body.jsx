@@ -8,7 +8,7 @@ function Body() {
         <div class="row">
           <div class="col-lg-6 col-md-12 img-col">
 
-            <p class="product-location mobile"> Man &nbsp; <i class="fas fa-caret-right"></i> &nbsp; Shoes &nbsp; <i class="fas fa-caret-right"></i> &nbsp; <span style={{color:"lightgrey"}}>Gray Running Sneakers</span>  </p>
+            <p class="product-location mobile"> dsMan &nbsp; <i class="fas fa-caret-right"></i> &nbsp; Shoes &nbsp; <i class="fas fa-caret-right"></i> &nbsp; <span style={{color:"lightgrey"}}>Gray Running Sneakers</span>  </p>
 
             <h1 class="product-name mobile">Gray Running Sneakers</h1>
 
